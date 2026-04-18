@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Pet - Adoption ",
+    "imageSrc": "projects/project1.png",
+    "description": "adopt a pet and change a life forever. Explore our diverse selection of rescue animals, each waiting eagerly to bring joy and love into your home.",
+    "skills": ["React", "Javascript", "Bootstrap","NodeJS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Build Con",
+    "imageSrc": "projects/project2.png",
+    "description": "where expertise meets excellence, shaping the future of infrastructure. Connect with industry leaders, and propel your projects to new heights.",
+    "skills": ["ReactJS","Bootstrap", "HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Red Store",
+    "imageSrc": "projects/project3.png",
+    "description": "Your ultimate destination for online shopping, offering a wide range of products to elevate your lifestyle with convenience and style.",
+    "skills": ["HTML", "CSS", "Javascript", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

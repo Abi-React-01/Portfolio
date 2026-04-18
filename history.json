@@ -1,0 +1,30 @@
+[
+  {
+    "role": "ReactJS Developer",
+    "organisation": "Redisolve Software Private Limited",
+    "startDate": "July, 2025",
+    "endDate": "Oct, 2025",
+    "experiences": ["Worked on React JS", "Worked on Redux"],
+    "imageSrc": "history/redisolve_pvt_ltd__logo.jpg"
+  },
+  {
+    "role": "Associate Software Developer",
+    "organisation": "Gevinst Technologies",
+    "startDate": "Feb, 2024",
+    "endDate": "Mar, 2025",
+    "experiences": ["Worked on component library",
+    "Helped create UI components"],
+    "imageSrc": "history/gevinst_logo.jpg"
+  },
+  {
+    "role": "Full-Stack Developer - Intern",
+    "organisation": "Inbox Info Solutions",
+    "startDate": "Dec, 2022",
+    "endDate": "Jan, 2024",
+    "experiences": [
+      "Develop full-stack applications using Java and Spring Boot",
+      "Build REST APIs, fix bugs, optimize performance"
+    ],
+    "imageSrc": "history/inbox.jpg"
+  }
+]
